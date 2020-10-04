@@ -3,8 +3,8 @@
 
 #### How to run it
 
-##### Install python enviroment
+1. Install python enviroment
 
-##### Install anaconda (optional)
+2. Install anaconda (optional)
 
-##### Install jupyter
+3. Install jupyter
